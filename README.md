@@ -1,4 +1,4 @@
 # ExtremeEventDetectionESDL
 
-To read the report open the "   .pdf" file
-For test the code, load the jupyter notebook "Seasons_plot.ipynb" in your jupyter hub ESDL workspace.
+The pdf file "report.pdf" includes an overview of the work done so far.
+To test the code, load the jupyter notebook "Seasons_plot.ipynb" on your jupyter hub ESDL workspace.
